@@ -1,0 +1,81 @@
+html,
+body {
+    height: 100%;
+}
+img {
+    cursor: pointer;
+}
+.name {
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+}
+.container-fluid {
+    min-height: 100%;
+}
+.i_color {
+    color: chartreuse;
+    font-size: 25px;
+}
+.ss_color {
+    color: silver;
+}
+a.nav-link {
+    color: whitesmoke;
+}
+a.nav-link:hover {
+    color: black;
+    background-color: #e9cd79;
+}
+a.nav-link:active {
+    color: black;
+    background-color: #ffc107;
+    font-weight: bold;
+}
+.home_img {
+    width: 250px;
+    height: 320px;
+    /* height: auto; */
+}
+.heading {
+    font-family: "Satisfy", cursive;
+    /* font-weight: 400; */
+}
+.my_info {
+    font-family: "Mirza", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+}
+.frm_card {
+    background: linear-gradient(150deg, #f731db, #4600f1 100%);
+}
+
+.cnt_heading,
+h2 {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    padding-bottom: 8px;
+}
+.pragraph {
+    font-family: "Raleway", sans-serif;
+}
+.social_icon {
+    padding: 0 15px;
+}
+.icn_heading {
+    font-size: 20px;
+}
+.s_icn {
+    color: chartreuse;
+    font-size: 35px;
+}
+.skill_icn {
+    color: chartreuse;
+    font-size: 35px;
+}
+.home_nav {
+    background-color: #ffc107;
+    font-weight: bold;
+}
